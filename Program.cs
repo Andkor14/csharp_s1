@@ -48,3 +48,4 @@
 //         int max = Math.Max(num1, Math.Max(num2, num3));
 
 //         Console.WriteLine($"Максимальное число: {max}");
+

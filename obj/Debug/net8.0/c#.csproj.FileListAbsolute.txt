@@ -12,3 +12,4 @@ C:\Users\andko\OneDrive\Рабочий стол\c#\obj\Debug\net8.0\refint\c#.dl
 C:\Users\andko\OneDrive\Рабочий стол\c#\obj\Debug\net8.0\c#.pdb
 C:\Users\andko\OneDrive\Рабочий стол\c#\obj\Debug\net8.0\c#.genruntimeconfig.cache
 C:\Users\andko\OneDrive\Рабочий стол\c#\obj\Debug\net8.0\ref\c#.dll
+C:\Users\andko\OneDrive\Рабочий стол\c#\obj\Debug\net8.0\c#.sourcelink.json
